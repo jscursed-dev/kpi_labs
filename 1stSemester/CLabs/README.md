@@ -9,4 +9,4 @@ All these labs work correct in linux envivornment, during studying we used [repl
 6. **[mkr2](https://github.com/jscursed-dev/kpi_labs/blob/main/1stSemester/CLabs/mkr2.c)** - ??? 
 ##  
 ### P.S.:
-*hillCryptor.c* works, but seems to me that incorrect, I still don't understand why, this is my  own bonus for mkr2, where I practiced how to use pointers and to work with memory, quite interesting task.
+*[hillCryptor.c](https://github.com/jscursed-dev/kpi_labs/blob/main/1stSemester/CLabs/hillCryptor.c)* works, but seems to me that incorrect, I still don't understand why, this is my  own bonus for mkr2, where I practiced how to use pointers and to work with memory, quite interesting task.
